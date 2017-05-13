@@ -20,4 +20,3 @@
 
 [1]: Akihiro Kubota et.al, "[A New Kind of Aesthetics: The Mathematical Structure of the Aesthetic](https://www.dropbox.com/s/ccif09xpof7b519/NKA161207J.pdf?dl=0)", Under article submission.  
 [2]: 久保田晃弘「計算する多宇宙の囲碁 (2008)」, [遙かなる他者のためのデザインー久保田晃弘の思索と実装](http://www.bnn.co.jp/books/8517/), BNN新社, 2017.
-)
