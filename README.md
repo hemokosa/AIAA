@@ -1,2 +1,2 @@
 # AIAA
-Manifesto of Artificial Intelligence Art and Aesthetics
+Manifesto of Artificial Intelligence Art and Aesthetics (Alternative Version)
